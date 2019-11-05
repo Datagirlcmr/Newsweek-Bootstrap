@@ -1,0 +1,7 @@
+.header{
+  background-color: #f72210;
+}
+
+.subs::placeholder {
+  color: red;
+}
