@@ -10,7 +10,7 @@
    <a href="https://github.com/Datagirlcmr/Newsweek-Bootstrap"><strong>Explore the docs »</strong></a>
    <br />
    <br />
-   <a href="https://raw.githack.com/Datagirlcmr/Newsweek-Bootstrap/features/index.html"> :wink: View Demo </a> 
+   <a href="https://raw.githack.com/Datagirlcmr/Newsweek-Bootstrap/master/index.html"> :wink: View Demo </a> 
  </p>
 </p>
 <h2 align="center">Tools and Technologies Used<h2>
